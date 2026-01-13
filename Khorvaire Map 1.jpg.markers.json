@@ -1,0 +1,33 @@
+{
+  "image": "Khorvaire Map 1.jpg",
+  "size": {
+    "w": 7680,
+    "h": 4837
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    "Khorvaire Map 1.jpg"
+  ],
+  "overlays": [],
+  "activeBase": "Khorvaire Map 1.jpg",
+  "measurement": {
+    "displayUnit": "auto-metric",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": []
+}
